@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58c783d5-aff9-4d32-880b-76c9f8b5b4b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/src/Habitacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/src/Huesped.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana-01/docs/ANALISIS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../semana-01/docs/ANALISIS.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="36MF0P24MMFznEraheENalYLUuE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Aprendiz/Pictures/java lunes/bc-poo-java-jose-guerrero/semana-03/java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58c783d5-aff9-4d32-880b-76c9f8b5b4b8" name="Changes" comment="" />
+      <created>1764808364906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764808364906</updated>
+    </task>
+    <servers />
+  </component>
+</project>
