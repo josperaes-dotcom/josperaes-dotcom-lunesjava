@@ -1,23 +1,37 @@
-# Bootcamp POO Java - [Tu Nombre Completo]
+# Bootcamp POO Java - Jose Guerrero
 
-## 📋 Información
+## Información
 
-- **Estudiante:** [Nombre Completo]
-- **Ficha:** [Número de Ficha]
-- **Dominio Asignado:** [Tu Dominio]
-- **Instructor:** [Nombre del Instructor]
+* **Estudiante:** Jose Guerrero
+* **Ficha:** 3228970A
+* **Dominio Asignado:** Hotel Descanso
+* **Instructor:** Erick Granados Torres
 
-## 📁 Estructura del Repositorio
+---
 
-- `semana-01/`: Introducción a POO
-- `semana-02/`: Clases y Objetos
-- `semana-03/`: Encapsulación y Constructores
-- `semana-04/`: Herencia
+## Estructura del Repositorio
 
-## 🚀 Cómo Ejecutar
+El repositorio está organizado por el progreso semanal del bootcamp:
 
-### Semana 01
+* `semana-01/`: Introducción a POO (Clases, Atributos)
+* `semana-02/`: Clases y Objetos (Instanciación)
+* `semana-03/`: Encapsulación y Constructores
+* `semana-04/`: Herencia
+* `semana-05/`: Sobrecarga, Sobrescritura y Polimorfismo
+---
+
+## Cómo Ejecutar
+
+Para compilar y ejecutar el código de cualquier semana (reemplaza `XX` por el número de la semana, e.g., `05`), sigue estos comandos:
+
+### Instrucciones Estándar
+
 ```bash
-cd semana-01/src
+# 1. Navegar a la carpeta de código fuente
+cd semana-XX/src
+
+# 2. Compilar todos los archivos .java
 javac *.java
+
+# 3. Ejecutar la clase principal
 java Main
